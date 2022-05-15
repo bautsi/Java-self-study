@@ -19,5 +19,7 @@ public class Userinput{
         System.out.println("Your name is "+name+".");
         System.out.println("Yo are "+age+" years old.");
         System.out.println("You love "+food+" the most.");
+
+        s.close();
     }
 }
