@@ -1,2 +1,2 @@
 # Java-self-study
-Study on my own.
+To leetcode at least I hope.
